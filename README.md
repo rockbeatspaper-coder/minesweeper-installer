@@ -1,4 +1,6 @@
 # Minesweeper Installer 🎮
+(because the installer isnt signed, then microsoft will flag it since microsoft doesent like unsigned files)
+
 
 A custom-built directional Minesweeper game with a modern setup wizard.
 
