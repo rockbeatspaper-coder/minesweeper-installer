@@ -15,5 +15,6 @@ A custom-built directional Minesweeper game with a modern setup wizard.
 ## Screenshots
 ![Gameplay](screenshots/gameplay.png)
 
-## License
-MIT (or whatever license you prefer)
+## Why I made this
+
+I made this using AI in python as a joke
